@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS DevOps Stuffs**
 
-- 📝 I regularly write articles on [medium about tech and life stuffs](medium about tech and life stuffs)
+- 📝 I regularly write articles on **Medium about tech and life stuffs**.
 
 - 💬 Feel free Ask me about **Linux and infra sutffs and Mobile Security**
 
