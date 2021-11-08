@@ -11,7 +11,7 @@
 
 - 💬 Feel free Ask me about **Linux and infra sutffs and Mobile Security**
 
-- 📫 How to reach me **aungkhantzawd@gmail.com**
+- 📫 How to reach me : **aungkhantzawd@gmail.com**
 
 - ⚡ Fun fact **I think I can really drink alot**
 
